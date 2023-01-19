@@ -9,11 +9,11 @@ This project is based on safety and convenience of user . In this system pass-co
 There are various examples of using the facial recognition model. One of the examples is the Lock system. In this project, we have used facial recognition to automate the security process for high-security purposes. It is a security system based on identifying the person using their faces and uploading it to the server.There is a database that contains the authorized user face. The project is made by using a well-known programming language called python. In future, we believe to present a high security-based dual lock system with an OTP generator and all the control is in the user's hand which reduce the chance of password hacking by authorized user or intruders.
 
 # Modules
-OpenCV: It stands for Open Source Computer Vision. OpenCV is a library of programming functions which targets real time computer vision. It is the library used for image processing.
-Numpy: Numpy is a Python library which stands for numerical python. It is the fundamental library for scientific computing in Python. It provides high performance multidimensional array and matrices object along with a large collection of high-level mathematical functions to perform on these arrays.
-Speech Recognition: Speech Recognition is a process which converts speech into text and that is understood by the machine. In python there is a library by which we can make the machine to recognize human speech.
-Pyttsx3: Pyttsx3 is a text-to-speech conversion library in Python.
-Other libraries used :  winsound(for alert sound) , 
+- OpenCV: It stands for Open Source Computer Vision. OpenCV is a library of programming functions which targets real time computer vision. It is the library used for image processing.
+- Numpy: Numpy is a Python library which stands for numerical python. It is the fundamental library for scientific computing in Python. It provides high performance multidimensional array and matrices object along with a large collection of high-level mathematical functions to perform on these arrays.
+- Speech Recognition: Speech Recognition is a process which converts speech into text and that is understood by the machine. In python there is a library by which we can make the machine to recognize human speech.
+- Pyttsx3: Pyttsx3 is a text-to-speech conversion library in Python.
+- Other libraries used :  winsound(for alert sound) , 
 datetime(for recoding date and time) , 
 random(for generating OTP).
 
